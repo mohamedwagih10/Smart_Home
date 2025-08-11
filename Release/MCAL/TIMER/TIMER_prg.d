@@ -1,0 +1,19 @@
+MCAL/TIMER/TIMER_prg.o MCAL/TIMER/TIMER_prg.o: ../MCAL/TIMER/TIMER_prg.c \
+  ../MCAL/TIMER/../../LIB/BIT_MATH.h ../MCAL/TIMER/TIMER_prv.h \
+  ../MCAL/TIMER/TIMER_int.h ../MCAL/TIMER/../../LIB/STD_TYPES.h \
+  ../MCAL/TIMER/TIMER_cfg.h ../MCAL/TIMER/../DIO/DIO_int.h \
+  ../MCAL/TIMER/../DIO/../../LIB/STD_TYPES.h
+
+../MCAL/TIMER/../../LIB/BIT_MATH.h:
+
+../MCAL/TIMER/TIMER_prv.h:
+
+../MCAL/TIMER/TIMER_int.h:
+
+../MCAL/TIMER/../../LIB/STD_TYPES.h:
+
+../MCAL/TIMER/TIMER_cfg.h:
+
+../MCAL/TIMER/../DIO/DIO_int.h:
+
+../MCAL/TIMER/../DIO/../../LIB/STD_TYPES.h:

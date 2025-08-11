@@ -1,0 +1,20 @@
+HAL/SWITCH/SWITCH_prg.o HAL/SWITCH/SWITCH_prg.o:  \
+ ../HAL/SWITCH/SWITCH_prg.c ../HAL/SWITCH/../../MCAL/DIO/DIO_int.h \
+  ../HAL/SWITCH/../../MCAL/DIO/../../LIB/STD_TYPES.h \
+  ../HAL/SWITCH/../../LIB/BIT_MATH.h ../HAL/SWITCH/../../LIB/STD_TYPES.h \
+  ../HAL/SWITCH/SWITCH_cfg.h ../HAL/SWITCH/SWITCH_int.h \
+  ../HAL/SWITCH/SWITCH_prv.h
+
+../HAL/SWITCH/../../MCAL/DIO/DIO_int.h:
+
+../HAL/SWITCH/../../MCAL/DIO/../../LIB/STD_TYPES.h:
+
+../HAL/SWITCH/../../LIB/BIT_MATH.h:
+
+../HAL/SWITCH/../../LIB/STD_TYPES.h:
+
+../HAL/SWITCH/SWITCH_cfg.h:
+
+../HAL/SWITCH/SWITCH_int.h:
+
+../HAL/SWITCH/SWITCH_prv.h:

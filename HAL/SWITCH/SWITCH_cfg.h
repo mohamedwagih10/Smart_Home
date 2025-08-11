@@ -1,0 +1,18 @@
+/*
+ * SWITCH_cfg.h
+ *
+ *  Created by: WAGIH
+ *      Author: Dell
+ */
+
+#ifndef HAL_SWITCH_SWITCH_CFG_H_
+#define HAL_SWITCH_SWITCH_CFG_H_
+
+// WRITE PULLUP OR PULLDOWN
+#define SWITCH_TYPE PULLUP
+// WRITE PORT OF SWITCH
+#define SWITCH_PORT DIO_PORTA
+// WRITE NUMBER PIN
+#define SWITCH_PIN DIO_PIN0
+
+#endif /* HAL_SWITCH_SWITCH_CFG_H_ */
